@@ -59,3 +59,9 @@ Asegúrate siempre de mantener tus drivers actualizados desde la página del fab
 
 ### Conceptos básicos de geometría
 
+- Vértice: Punto de intersección entre dos rectas.
+- Ángulo: es la aplitud que existe entre dos rectas unidas por un vértice.
+- Plano: figura que tiene anchura y longitud pero no tiene espesor.
+- Arista: linea resultante de la unión entre dos planos por uno de sus bordes.
+- Espacio tridimensional: plano donde se ve representado la anchura, longitud y la profundidad o espesor conocidos como los ejes X, Y, Z.
+- Volumen: espacio ocupado por un objeto en un plano.
