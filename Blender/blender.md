@@ -65,3 +65,12 @@ Asegúrate siempre de mantener tus drivers actualizados desde la página del fab
 - Arista: linea resultante de la unión entre dos planos por uno de sus bordes.
 - Espacio tridimensional: plano donde se ve representado la anchura, longitud y la profundidad o espesor conocidos como los ejes X, Y, Z.
 - Volumen: espacio ocupado por un objeto en un plano.
+
+### Conocer la interfaz
+
+### Ahondar en la interfaz
+
+## Modelado
+
+### ¿Cómo se crea un proyecto?
+
