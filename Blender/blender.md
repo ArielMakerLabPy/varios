@@ -70,7 +70,25 @@ Asegúrate siempre de mantener tus drivers actualizados desde la página del fab
 
 ### Ahondar en la interfaz
 
+#### Conocer los 140 shortcuts esenciales
+
+##### Navegación
+
+- Botón central del ratón -> rotar vista
+- Botón central del ratón + shift -> mover vista
+- Scroll con el ratón -> zoom
+- 1 -> vista frontal
+- 3 -> vista lateral
+- 7 -> vista superior
+- 0 -> vista de cámara
+- 5 -> cambiar de perspectiva/ortográfica
+- Shift + F -> navegación vuelo/a pie
+- Alt + F -> vista del cursor
+
+##### Selección
+
 ## Modelado
 
 ### ¿Cómo se crea un proyecto?
 
+### Modelado de la mesa
